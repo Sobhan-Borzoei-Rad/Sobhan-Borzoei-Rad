@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Sobhan 👋
 
-<!--
-**Sobhan-Borzoei-Rad/Sobhan-Borzoei-Rad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter & React Developer 🚀
 
-Here are some ideas to get you started:
+I'm a developer focused on building clean, modern, and user-friendly digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm focusing on:
+
+* 📱 Flutter & Dart
+* 🌐 React & Modern Web Development
+* 🧩 Clean and maintainable code
+* 🚀 Building real-world projects
+* 📚 Continuously learning and improving
+
+### 🛠️ Technologies
+
+** Mobile **
+
+* Flutter
+* Dart
+
+** Web **
+
+* React
+* JavaScript
+* HTML
+* CSS
+
+** Tools **
+
+* Git
+* GitHub
+* VS Code
+
+### 🚀 What I'm Working On
+
+I'm currently building projects to strengthen my Flutter and React skills and turn what I learn into real-world applications.
+
+### 📌 Featured Projects
+
+Coming soon...
+
+### 📫 Connect With Me
+
+* GitHub: [@SobhanBorzoei]
+* Email: [sobhnborzoeirad@gmail.com]
